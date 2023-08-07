@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Nền kinh tế chia sẻ &#8211; DuyDuong</title>
+	<atom:link href="http://localhost/wordpress/product-tag/nen-kinh-te-chia-se/feed/?simply_static_page=1716" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Thu, 13 Jul 2023 04:50:43 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Nền kinh tế chia sẻ</title>
+		<link>/product/nen-kinh-te-chia-se/</link>
+					<comments>/product/nen-kinh-te-chia-se/#respond</comments>
+		
+		<dc:creator><![CDATA[duy]]></dc:creator>
+		<pubDate>Thu, 13 Jul 2023 04:50:43 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=17</guid>
+
+					<description><![CDATA[<h3>GIỚI THIỆU SÁCH</h3>
+<div class="content_introduction">
+<div class="quote_intro">
+<div>Arun Sundarajan giải thích sự chuyển biến đến trạng thái mà ông mô tả là "chủ nghĩa tư bản dựa trên đám đông" - một phương cách tổ chức hoạt động kinh tế mới mẻ có thể thế chỗ cho mô hình truyền thống lấy công ti làm trọng tâm. Dựa vào những nghiên cứu có chiều sâu và nhiều ví dụ từ thế giới thực - bao gồm Airbnb, Lyft, Uber, Etsy, TaskRabbit, BlaBlaCar của Pháp, Didi Kuaidi của Trung Quốc, Ola của Ấn Độ, Sundararajan giải thích được những căn bản của chủ nghĩa tư bản dựa trên đám đông. Ông mô tả sự pha trộn lý thú giữa “quà tặng” và “thị trường” trong quá trình chuyển hóa của chúng, làm sáng tỏ những công nghệ chuỗi khối đang xuất hiện, và phân loại những nền tảng theo-yêu-cầu đang gia tăng chóng mặt. Ông bàn luận về việc hình thái mới này sẽ làm thay đổi sự tăng trưởng kinh tế và tương lai của việc làm ra sao. Liệu chúng ta sẽ sống trong một thế giới mà chúng ta là những doanh nhân được trao quyền và được thụ hưởng sự linh hoạt và độc lập trong chuyên môn? Hay chúng ta sẽ trở nên những người lao động bị tước quyền, chạy nhốn nháo giữa các nền tảng tìm công việc kế tiếp để chèn vào? Sundararajan nhấn mạnh tầm quan trọng của các lựa chọn chính sách. Ông gợi ý những hướng đi mới dẫn đến hình thành những tổ chức tự điều tiết, đến luật lệ lao động, và việc cấp vốn cho mạng lưới an sinh.</div>
+</div>
+</div>]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" class="alignnone size-full wp-image-19" src="/wp-content/uploads/2023/07/Screenshot-2023-07-13-114934.png" alt="" width="587" height="356" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/nen-kinh-te-chia-se/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>D.Trump. &#8211; DuyDuong</title>
+	<atom:link href="http://localhost/wordpress/product-tag/d-trump/feed/?simply_static_page=1694" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Sat, 05 Aug 2023 09:05:35 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>D.Trump. Nghệ thuật đàm phán</title>
+		<link>/product/d-trump-nghe-thuat-dam-phan/</link>
+					<comments>/product/d-trump-nghe-thuat-dam-phan/#respond</comments>
+		
+		<dc:creator><![CDATA[duy]]></dc:creator>
+		<pubDate>Thu, 13 Jul 2023 05:01:44 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=29</guid>
+
+					<description><![CDATA[<h3>GIỚI THIỆU SÁCH</h3>
+<div class="content_introduction">
+<div class="quote_intro">
+<div>Quyển sách cho chúng ta thấy cách Trump làm việc mỗi ngày - cách ông điều hành công việc kinh doanh và cuộc sống - cũng như cách ông trò chuyện với bạn bè và gia đình, làm ăn với đối thủ, mua thành công những sòng bạc hàng đầu ở thành phố Atlantic, thay đổi bộ mặt của những cao ốc ở thành phố New York… và xây dựng những tòa nhà chọc trời trên thế giới.
+Quyển sách đi sâu vào đầu óc của một doanh nhân xuất sắc và khám phá một cách khoa học chưa từng thấy về cách đàm phán một thương vụ thành công. Đây là một cuốn sách thú vị về đàm phán và kinh doanh – và là một cuốn sách nên đọc cho bất kỳ ai quan tâm đến đầu tư, bất động sản và thành công.</div>
+</div>
+</div>]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" class="alignnone size-full wp-image-31" src="/wp-content/uploads/2023/07/Screenshot-2023-07-13-120102.png" alt="" width="715" height="357" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/d-trump-nghe-thuat-dam-phan/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

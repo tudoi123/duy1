@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Hạnh phúc &#8211; DuyDuong</title>
+	<atom:link href="http://localhost/wordpress/product-tag/hanh-phuc/feed/?simply_static_page=1706" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Thu, 13 Jul 2023 05:53:18 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Năm kẻ trộm hạnh phúc</title>
+		<link>/product/nam-ke-trom-hanh-phuc/</link>
+					<comments>/product/nam-ke-trom-hanh-phuc/#respond</comments>
+		
+		<dc:creator><![CDATA[duy]]></dc:creator>
+		<pubDate>Thu, 13 Jul 2023 05:53:18 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=76</guid>
+
+					<description><![CDATA[<h3>GIỚI THIỆU SÁCH</h3>
+<div class="content_introduction">
+<div class="quote_intro">
+<div>Đừng truy cầu hạnh phúc; Chỉ cần dọn đường cho hạnh phúc! John Izzo lập luận rằng hạnh phúc là trạng thái tự nhiên của chúng ta. Nhưng hạnh phúc bị đánh cắp bởi những kiểu tư duy âm ỉ mà ông miêu tả là những kẻ trộm: kiểm soát, kiêu ngạo, thèm muốn, tiêu dùng, và nhàn hạ. Ông phát hiện những tên trộm này khi tìm kiếm nguồn hạnh phúc đích thực trong kỳ nghỉ phép dài một năm, đi Đường hành hương Camino de Santiago ở Tây Ban Nha và sống trên vùng núi Andes của Peru. Cuốn sách sâu sắc và truyền cảm hứng này miêu tả lớp vỏ ngụy trang của những tên trộm đó, những công cụ chúng sử dụng để đột nhập vào tâm chúng ta, và cách bắt giữ chúng một lần và mãi mãi. Izzo cho thấy cũng những tên trộm hạnh phúc cá nhân này đang hủy hoại xã hội như thế nào. Cuốn sách sẽ giúp tất cả chúng ta phát hiện, triển khai, và bảo vệ hạnh phúc vốn là bản chất thật của chúng ta đồng thời tạo ra một thế giới mà tất cả chúng ta đều muốn sống trong đó.</div>
+</div>
+</div>]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" class="alignnone size-full wp-image-78" src="/wp-content/uploads/2023/07/Screenshot-2023-07-13-125145.png" alt="" width="526" height="340" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/nam-ke-trom-hanh-phuc/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

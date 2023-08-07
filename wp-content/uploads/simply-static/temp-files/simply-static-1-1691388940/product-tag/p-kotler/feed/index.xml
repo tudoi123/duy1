@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>P.Kotler &#8211; DuyDuong</title>
+	<atom:link href="http://localhost/wordpress/product-tag/p-kotler/feed/?simply_static_page=1718" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Thu, 13 Jul 2023 04:54:16 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>P.Kotler. 10 sai lầm chết người trong tiếp thị các dấu hiệu và giải pháp</title>
+		<link>/product/p-kotler-10-sai-lam-chet-nguoi-trong-tiep-thi-cac-dau-hieu-va-giai-phap/</link>
+					<comments>/product/p-kotler-10-sai-lam-chet-nguoi-trong-tiep-thi-cac-dau-hieu-va-giai-phap/#respond</comments>
+		
+		<dc:creator><![CDATA[duy]]></dc:creator>
+		<pubDate>Thu, 13 Jul 2023 04:54:16 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=20</guid>
+
+					<description><![CDATA[<h3>GIỚI THIỆU SÁCH</h3>
+<div class="content_introduction">
+<div class="quote_intro">
+<div>Trong cuốn sách mới nhất này Giáo sư Philip Kotler lột tả những nhược điểm cực kỳ phổ biến trong hoạt động tiếp thị hiện nay và đồng thời ông cũng chỉ ra cách chính xác để bạn đảo ngược tình thế khi những dấu hiệu đầu tiên của một sai lầm chết người vừa lộ ra. Cuốn sách được chào đón như một bảo hiểm -  một cẩm nang về những điều không nên làm trong tiếp thị.</div>
+</div>
+</div>]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" class="alignnone size-full wp-image-22" src="/wp-content/uploads/2023/07/Screenshot-2023-07-13-115323.png" alt="" width="517" height="370" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/p-kotler-10-sai-lam-chet-nguoi-trong-tiep-thi-cac-dau-hieu-va-giai-phap/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

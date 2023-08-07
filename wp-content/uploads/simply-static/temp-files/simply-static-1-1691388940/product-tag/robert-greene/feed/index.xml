@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Robert Greene &#8211; DuyDuong</title>
+	<atom:link href="http://localhost/wordpress/product-tag/robert-greene/feed/?simply_static_page=1710" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Thu, 13 Jul 2023 05:56:38 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Robert Greene. Nghệ thuật quyến rũ</title>
+		<link>/product/robert-greene-nghe-thuat-quyen-ru/</link>
+					<comments>/product/robert-greene-nghe-thuat-quyen-ru/#respond</comments>
+		
+		<dc:creator><![CDATA[duy]]></dc:creator>
+		<pubDate>Thu, 13 Jul 2023 05:55:53 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=79</guid>
+
+					<description><![CDATA[<h3>GIỚI THIỆU SÁCH</h3>
+<div class="content_introduction">
+<div class="quote_intro">
+<div>Tất cả chúng ta đều có sức hấp dẫn, lôi cuốn người khác nhưng không phải ai cũng ý thức và nhận ra được khả năng tiềm tàng này trong mình. Làm sao để nhận thức và phát triển những lợi điểm của bản thân để mỗi người trở lên thu hút và lôi cuốn hơn trước mọi người? Nghệ thuật quyến rũ là một cuốn sách thú vị giúp bạn khám phá và phát huy những lợi điểm vốn có trong bạn để tạo ảnh hưởng đối với người khác thông qua một số phương pháp và kỹ năng được hướng dẫn cụ thể. Bên cạnh đó sách cũng giới thiệu và phân tích minh họa những mẫu người quyến rũ và không quyến rũ điển hình có thật trong lịch sử cũng như trong các tác phẩm văn học để bạn có thể đối chứng và học hỏi thêm từ họ. Hi vọng sau khi đọc xong cuốn sách này mỗi chúng ta đều trở nên quyến rũ và thuyết phục hơn trong mắt mọi người.</div>
+</div>
+</div>]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" class="alignnone size-full wp-image-80" src="/wp-content/uploads/2023/07/Screenshot-2023-07-13-125439.png" alt="" width="573" height="342" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/robert-greene-nghe-thuat-quyen-ru/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

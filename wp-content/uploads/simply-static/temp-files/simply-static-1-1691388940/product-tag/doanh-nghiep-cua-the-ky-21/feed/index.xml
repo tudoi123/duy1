@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Doanh nghiệp của thế kỷ 21 &#8211; DuyDuong</title>
+	<atom:link href="http://localhost/wordpress/product-tag/doanh-nghiep-cua-the-ky-21/feed/?simply_static_page=1698" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Thu, 13 Jul 2023 04:51:45 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Doanh nghiệp của thế kỷ 21</title>
+		<link>/product/doanh-nghiep-cua-the-ky-21/</link>
+					<comments>/product/doanh-nghiep-cua-the-ky-21/#respond</comments>
+		
+		<dc:creator><![CDATA[duy]]></dc:creator>
+		<pubDate>Thu, 13 Jul 2023 04:06:11 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=12</guid>
+
+					<description><![CDATA[<div class="content_introduction">
+<div class="quote_intro">
+<h4>VỀ CUỐN SÁCH</h4>
+</div>
+</div>
+<div class="content_introduction">
+<div class="quote_intro">Một cuốn sách khác của tác giả bộ sách nổi tiếng Dạy con làm giàu. Trong cuốn sách này, Robert T. Kiyosaki sẽ chỉ cho bạn lý do tại sao bạn cần bắt đầu công việc kinh doanh của riêng mình và chính xác nó là gì. Nhưng đây không phải là thay đổi loại hình kinh doanh mà bạn đang điều hành, mà là thay đổi chính bạn. Tác giả cũng cho người đọc biết làm thế nào để tìm thấy những gì bạn cần để phát triển công việc kinh doanh hoàn hảo, nhưng để công việc kinh doanh của bạn phát triển, bạn cũng sẽ phải phát triển.</div>
+</div>]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" class="alignnone size-full wp-image-13" src="/wp-content/uploads/2023/07/Screenshot-2023-07-13-110753.png" alt="" width="585" height="352" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/doanh-nghiep-cua-the-ky-21/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

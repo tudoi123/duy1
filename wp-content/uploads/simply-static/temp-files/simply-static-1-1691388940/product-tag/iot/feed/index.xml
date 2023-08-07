@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>IoT &#8211; DuyDuong</title>
+	<atom:link href="http://localhost/wordpress/product-tag/iot/feed/?simply_static_page=1700" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Thu, 13 Jul 2023 05:34:00 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>IoT (Internet vạn vật) &#8211; Kiến trúc IoT, IoT công nghiệp và công nghiệp 4.0, IoT tổ ong</title>
+		<link>/product/iot-internet-van-vat-kien-truc-iot-iot-cong-nghiep-va-cong-nghiep-4-0-iot-to-ong/</link>
+					<comments>/product/iot-internet-van-vat-kien-truc-iot-iot-cong-nghiep-va-cong-nghiep-4-0-iot-to-ong/#respond</comments>
+		
+		<dc:creator><![CDATA[duy]]></dc:creator>
+		<pubDate>Thu, 13 Jul 2023 05:19:07 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=47</guid>
+
+					<description><![CDATA[<h3>GIỚI THIỆU SÁCH</h3>
+<div class="content_introduction">
+<div class="quote_intro">
+<div>Làn sóng IoT tương lai sẽ đưa cuộc sống của chúng ta tương tác với máy móc, biến đổi mọi đối tượng thành các thiết bị thông minh với các bộ cảm biến. Trong tương lai, IoT sẽ trở thành thế giới gồm hàng tỷ các đối tượng được trang bị trí tuệ, các phương tiện truyền thông, có khả năng cảm biến, truyền thông với nhau, chia sẻ thông tin và phần nào có thể hoạt động độc lập với các sự kiện của thế giới thực.</div>
+</div>
+</div>]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" class="alignnone size-full wp-image-48" src="/wp-content/uploads/2023/07/Screenshot-2023-07-13-121830.png" alt="" width="488" height="351" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/iot-internet-van-vat-kien-truc-iot-iot-cong-nghiep-va-cong-nghiep-4-0-iot-to-ong/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

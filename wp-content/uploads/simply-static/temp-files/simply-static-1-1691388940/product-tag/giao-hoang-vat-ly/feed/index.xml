@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Giáo hoàng Vật lý &#8211; DuyDuong</title>
+	<atom:link href="http://localhost/wordpress/product-tag/giao-hoang-vat-ly/feed/?simply_static_page=1702" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Thu, 13 Jul 2023 05:10:26 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>KHKP. Giáo hoàng Vật lý</title>
+		<link>/product/khkp-giao-hoang-vat-ly/</link>
+					<comments>/product/khkp-giao-hoang-vat-ly/#respond</comments>
+		
+		<dc:creator><![CDATA[duy]]></dc:creator>
+		<pubDate>Thu, 13 Jul 2023 05:10:26 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=40</guid>
+
+					<description><![CDATA[<h3>GIỚI THIỆU SÁCH</h3>
+<div class="content_introduction">
+<div class="quote_intro">
+<div>Enrico Fermi là một trong những nhà khoa học vĩ đại của thế giới vật lý. Ông được các đồng nghiệp gọi là Giáo hoàng, và được coi là có bản năng nghiên cứu không thể sai lầm. Những khám phá của ông đã thay đổi thế giới của chúng ta, theo nhiều cách; chúng dẫn đến vũ khí hủy diệt hàng loạt, và các can thiệp y tế cứu mạng. Người đàn ông này đã đấu tranh với các vấn đề như mối đe dọa hủy diệt hạt nhân và mối quan hệ của khoa học với chính trị. Thoát khỏi chủ nghĩa phát xít và chủ nghĩa bài Do Thái, Fermi trở thành nhân vật hàng đầu trong dự án bí mật nhất của Mỹ: chế tạo bom nguyên tử.</div>
+</div>
+</div>]]></description>
+										<content:encoded><![CDATA[<p><img decoding="async" class="alignnone size-full wp-image-42" src="/wp-content/uploads/2023/07/Screenshot-2023-07-13-120951.png" alt="" width="490" height="365" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/khkp-giao-hoang-vat-ly/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
